@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BottomNavigationActive">
+        <item name="android:textColor">#FFFFFF</item> <!-- Active text color -->
+        <item name="android:textSize">12sp</item> <!-- Active text size -->
+    </style>
+
+
+    <style name="BottomNavigationInactive">
+        <item name="android:textColor">#B3B3B3</item> <!-- Inactive text color -->
+        <item name="android:textSize">10sp</item> <!-- Inactive text size -->
+    </style>
+</resources>
